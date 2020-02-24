@@ -1,0 +1,4 @@
+C:\Users\pisahoo\source\repos\MefExample\UseOfPartCreationPolicy\bin\Debug\UseOfPartCreationPolicy.exe
+C:\Users\pisahoo\source\repos\MefExample\UseOfPartCreationPolicy\bin\Debug\UseOfPartCreationPolicy.pdb
+C:\Users\pisahoo\source\repos\MefExample\UseOfPartCreationPolicy\obj\Debug\UseOfPartCreationPolicy.exe
+C:\Users\pisahoo\source\repos\MefExample\UseOfPartCreationPolicy\obj\Debug\UseOfPartCreationPolicy.pdb

@@ -1,0 +1,5 @@
+C:\Users\pisahoo\source\repos\MefExample\ImportMultipleParts\bin\Debug\ImportMultipleParts.exe
+C:\Users\pisahoo\source\repos\MefExample\ImportMultipleParts\bin\Debug\ImportMultipleParts.pdb
+C:\Users\pisahoo\source\repos\MefExample\ImportMultipleParts\obj\Debug\02_ImportMultipleParts.csprojAssemblyReference.cache
+C:\Users\pisahoo\source\repos\MefExample\ImportMultipleParts\obj\Debug\ImportMultipleParts.exe
+C:\Users\pisahoo\source\repos\MefExample\ImportMultipleParts\obj\Debug\ImportMultipleParts.pdb
