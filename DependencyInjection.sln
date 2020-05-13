@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MEF", "MEF", "{C7C6573C-2917-4CBA-AAB5-82EC45727B52}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_MEF", "01_MEF", "{C7C6573C-2917-4CBA-AAB5-82EC45727B52}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ComposeWithMetadata", "MEF\ComposeWithMetadata\03_ComposeWithMetadata.csproj", "{3FC3849B-5E13-4596-B4C2-11F27D4C23DD}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MefExample", "MEF\MefExample\01_MefExample.csproj", "{61B6E40E-7A60-4668-8D1B-120267488DB1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_UseOfPartCreationPolicy", "MEF\UseOfPartCreationPolicy\05_UseOfPartCreationPolicy.csproj", "{B8E30467-8B2C-4C19-9CD3-0DA534131A9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_Autofac", "02_Autofac", "{DC3EB315-5474-41ED-8482-558394F3FB64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
