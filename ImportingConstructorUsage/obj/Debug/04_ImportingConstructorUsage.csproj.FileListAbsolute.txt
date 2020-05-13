@@ -1,9 +1,0 @@
-C:\Users\pisahoo\source\repos\MefExample\ImportingConstructorUsage\bin\Debug\ImportingConstructorUsage.exe
-C:\Users\pisahoo\source\repos\MefExample\ImportingConstructorUsage\bin\Debug\ImportingConstructorUsage.pdb
-C:\Users\pisahoo\source\repos\MefExample\ImportingConstructorUsage\obj\Debug\04_ImportingConstructorUsage.csprojAssemblyReference.cache
-C:\Users\pisahoo\source\repos\MefExample\ImportingConstructorUsage\obj\Debug\ImportingConstructorUsage.exe
-C:\Users\pisahoo\source\repos\MefExample\ImportingConstructorUsage\obj\Debug\ImportingConstructorUsage.pdb
-E:\GitLocalRepository\DependencyInjection\ImportingConstructorUsage\bin\Debug\ImportingConstructorUsage.exe
-E:\GitLocalRepository\DependencyInjection\ImportingConstructorUsage\bin\Debug\ImportingConstructorUsage.pdb
-E:\GitLocalRepository\DependencyInjection\ImportingConstructorUsage\obj\Debug\ImportingConstructorUsage.exe
-E:\GitLocalRepository\DependencyInjection\ImportingConstructorUsage\obj\Debug\ImportingConstructorUsage.pdb

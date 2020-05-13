@@ -1,9 +1,0 @@
-C:\Users\pisahoo\source\repos\MefExample\MefExample\bin\Debug\MefExample.exe
-C:\Users\pisahoo\source\repos\MefExample\MefExample\bin\Debug\MefExample.pdb
-C:\Users\pisahoo\source\repos\MefExample\MefExample\obj\Debug\01_MefExample.csprojAssemblyReference.cache
-C:\Users\pisahoo\source\repos\MefExample\MefExample\obj\Debug\MefExample.exe
-C:\Users\pisahoo\source\repos\MefExample\MefExample\obj\Debug\MefExample.pdb
-E:\GitLocalRepository\DependencyInjection\MefExample\obj\Debug\MefExample.exe
-E:\GitLocalRepository\DependencyInjection\MefExample\obj\Debug\MefExample.pdb
-E:\GitLocalRepository\DependencyInjection\MefExample\bin\Debug\MefExample.exe
-E:\GitLocalRepository\DependencyInjection\MefExample\bin\Debug\MefExample.pdb

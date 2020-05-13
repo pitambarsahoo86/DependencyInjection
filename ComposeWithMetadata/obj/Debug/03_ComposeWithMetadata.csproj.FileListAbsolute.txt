@@ -1,8 +1,0 @@
-C:\Users\pisahoo\source\repos\MefExample\ComposeWithMetadata\bin\Debug\ComposeWithMetadata.exe
-C:\Users\pisahoo\source\repos\MefExample\ComposeWithMetadata\bin\Debug\ComposeWithMetadata.pdb
-C:\Users\pisahoo\source\repos\MefExample\ComposeWithMetadata\obj\Debug\ComposeWithMetadata.exe
-C:\Users\pisahoo\source\repos\MefExample\ComposeWithMetadata\obj\Debug\ComposeWithMetadata.pdb
-E:\GitLocalRepository\DependencyInjection\ComposeWithMetadata\bin\Debug\ComposeWithMetadata.exe
-E:\GitLocalRepository\DependencyInjection\ComposeWithMetadata\bin\Debug\ComposeWithMetadata.pdb
-E:\GitLocalRepository\DependencyInjection\ComposeWithMetadata\obj\Debug\ComposeWithMetadata.exe
-E:\GitLocalRepository\DependencyInjection\ComposeWithMetadata\obj\Debug\ComposeWithMetadata.pdb

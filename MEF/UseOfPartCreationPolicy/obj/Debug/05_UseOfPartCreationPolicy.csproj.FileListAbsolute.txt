@@ -1,0 +1,12 @@
+C:\Users\pisahoo\source\repos\MefExample\UseOfPartCreationPolicy\bin\Debug\UseOfPartCreationPolicy.exe
+C:\Users\pisahoo\source\repos\MefExample\UseOfPartCreationPolicy\bin\Debug\UseOfPartCreationPolicy.pdb
+C:\Users\pisahoo\source\repos\MefExample\UseOfPartCreationPolicy\obj\Debug\UseOfPartCreationPolicy.exe
+C:\Users\pisahoo\source\repos\MefExample\UseOfPartCreationPolicy\obj\Debug\UseOfPartCreationPolicy.pdb
+E:\GitLocalRepository\DependencyInjection\UseOfPartCreationPolicy\bin\Debug\UseOfPartCreationPolicy.exe
+E:\GitLocalRepository\DependencyInjection\UseOfPartCreationPolicy\bin\Debug\UseOfPartCreationPolicy.pdb
+E:\GitLocalRepository\DependencyInjection\UseOfPartCreationPolicy\obj\Debug\UseOfPartCreationPolicy.exe
+E:\GitLocalRepository\DependencyInjection\UseOfPartCreationPolicy\obj\Debug\UseOfPartCreationPolicy.pdb
+E:\GitLocalRepository\DependencyInjection\MEF\UseOfPartCreationPolicy\bin\Debug\UseOfPartCreationPolicy.exe
+E:\GitLocalRepository\DependencyInjection\MEF\UseOfPartCreationPolicy\bin\Debug\UseOfPartCreationPolicy.pdb
+E:\GitLocalRepository\DependencyInjection\MEF\UseOfPartCreationPolicy\obj\Debug\UseOfPartCreationPolicy.exe
+E:\GitLocalRepository\DependencyInjection\MEF\UseOfPartCreationPolicy\obj\Debug\UseOfPartCreationPolicy.pdb
